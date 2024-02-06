@@ -19,7 +19,7 @@ L’entreprise CUB possède de nombreux postes clients à mettre à jour et à d
 
 ## II. Mission 1 : Besoins
 
-L’entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d’utiliser le logiciel FOG Project que vous installerez sur une machine virtuelle Lubuntu.
+L’entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous [Windows 10 Entreprise](https://www.microsoft.com/fr-fr/evalcenter/download-windows-10-enterprise). Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d’utiliser le logiciel FOG Project que vous installerez sur une machine virtuelle Lubuntu.
 
 Le poste [Windows 10 Entreprise](https://www.microsoft.com/fr-fr/evalcenter/download-windows-10-enterprise) que vous allez déployer devront contenir les logiciels suivants :
 
